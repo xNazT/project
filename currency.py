@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 
 root = Tk()
 root.geometry('300x320')
-root.title('Currency Converter')
+root.title('Dollar Converter')
 root.configure(bg='white')
 root.resizable(height=FALSE, width=FALSE)
 
